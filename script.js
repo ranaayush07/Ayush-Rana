@@ -202,3 +202,5 @@ class student extends createUsers {
 }
 const student1 = new student('Nishant','Kumar',21,'B+','Masters')
 console.log(student1)
+
+console.log('Ayush Rana');
